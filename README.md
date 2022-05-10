@@ -1,11 +1,11 @@
-# Spread Java Developer Projects
+# Spread Java Developer Bootcamp
+***
 
-🇧🇷 Projetos do Bootcamp Spread Java Developer da [DIO](www.dio.me).
+🇧🇷 Este repositório é para agrupar os exercícios do _Bootcamp Spread Java Developer_ da [DIO](www.dio.me).
 
-🇺🇸 Projects from the Spread Java Developer Bootcamp by [DIO](www.dio.me).
+🇺🇸 This repositroy is to gather all the assignments from the _Spread Java Developer Bootcamp_ by [DIO](www.dio.me).
 
-<!-- 
-primeiro link pro primeiro projeto aqui
-segundo  link pro segundo projeto aqui
-terceiro  link pro terceiro projeto aqui
--->
+
+1. [`HTML5`](https://github.com/scatteredsky/spread-java-developer/tree/master/html5) Assignment
+2. [`Java IDE`](https://github.com/scatteredsky/spread-java-developer/tree/master/java-ide-course) Course
+3. [`Java Basics`](https://github.com/scatteredsky/spread-java-developer/tree/master/java-basics)
