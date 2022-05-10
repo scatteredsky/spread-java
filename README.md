@@ -1,5 +1,5 @@
 # 🚀 Spread Java Developer Bootcamp
-***
+
 
 🇧🇷 Este repositório foi criado para agrupar os exercícios do _Bootcamp Spread Java Developer_ da [DIO](www.dio.me).
 
