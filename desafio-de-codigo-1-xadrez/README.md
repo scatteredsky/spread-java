@@ -21,3 +21,22 @@ Imprima uma linha na saída. A linha deve conter um inteiro, representando a cor
 | 91                      |                       |
 | **8**                       | **1**                     |
 | **8**                       |                       |
+
+#### Exercício Resolvido
+
+```import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int L = sc.nextInt();
+        int C = sc.nextInt();
+        if ((L + C) % 2 == 0)
+            System.out.println("1");
+        else
+            System.out.println("0");
+        sc.close();
+    }
+}
+```
