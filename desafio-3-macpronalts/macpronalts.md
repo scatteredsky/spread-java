@@ -24,40 +24,19 @@ Você deve imprimir o valor da compra com duas casas decimais.
 
 | **Exemplos de Entrada** | **Exemplos de Saída** |
 |:-----------------------:|:---------------------:|
-|                        |                        |
-|                        |                        |
-|                        |                        |
-|                        |                        |
-Input Sample Output Sample
-2
+| **2**                       |  **19.50**             |
+| **1001 2**                  |                        |
+| **1005 3**                  |                        |
+| 1                           |  1750.00               |
+| 1003  500                   |                        |
+| **5**                       |  **2808.50**           |
+| **1001  500**               |                        |
+| **1005  300**               |                        |
+| **1003  23**                |                        |
+| **1002  52**                |                        |
+| **1004  44**                |                        |
 
-1001 2
-
-1005 3
-
-19.50
-
-1
-
-1003 500
-
-1750.00
-
-5
-
-1001 500
-
-1005 300
-
-1003 23
-
-1002 52
-
-1004 44
-
-2808.50
-
-Retirado da I Seletiva MaratonaTEC - Maratona de Programação PRONATEC - UNIME
+(Retirado da _I Seletiva MaratonaTEC_ – Maratona de Programação PRONATEC - UNIME)
 
 ### Exercício Resolvido: MacPRONALTS
 
