@@ -22,7 +22,7 @@ Imprima uma linha na saída. A linha deve conter um inteiro, representando a cor
 | **8**                       | **1**                     |
 | **8**                       |                       |
 
-#### Exercício Resolvido
+#### Exercício Resolvido: _Xadrez_
 
 ```
 import java.util.Scanner;
