@@ -17,11 +17,11 @@ Imprima uma linha na saída. A linha deve conter um inteiro, representando a cor
 
 | **Exemplos de Entrada** | **Exemplos de Saída** |
 |:-----------------------:|:---------------------:|
-| **6**                       | **0**                     |
+| **6**                       | **0**                 |
 | **9**                       |                       |
-| 5                       | 1                     |
-| 91                      |                       |
-| **8**                       | **1**                     |
+| 5                           | 1                     |
+| 91                          |                       |
+| **8**                       | **1**                 |
 | **8**                       |                       |
 
 #### Exercício Resolvido: _Xadrez_
