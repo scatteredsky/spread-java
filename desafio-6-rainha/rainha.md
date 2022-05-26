@@ -49,7 +49,6 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         int x1, y1, x2, y2;
-        boolean sameRow, sameColumn, diagonal;
         // se estiver na mesma linha ou mesma coluna ou mesma diagonal, gasta 1
         // movimento
         // se estiver em qualquer outra posição, a rainha gastará 2 movimentos!
