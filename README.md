@@ -23,6 +23,6 @@ Lista dos desafios de código e de suas resoluções:
 | `Desafio 1: Xadrez`                | [Detalhes](https://github.com/scatteredsky/spread-java-developer/blob/master/desafio-de-codigo-1-xadrez/README.md) | [Código](https://github.com/scatteredsky/spread-java-developer/blob/master/desafio-de-codigo-1-xadrez/chess.java) |
 | `Desafio 2: Trigo no Tabuleiro`    | [Detalhes](https://github.com/scatteredsky/spread-java-developer/blob/master/desafio-2-trigo-no-tabuleiro/trigo.md) | [Código](https://github.com/scatteredsky/spread-java-developer/blob/master/desafio-2-trigo-no-tabuleiro/trigo.java) |
 | `Desafio 3: MacPRONALTS`           | [Detalhes](https://github.com/scatteredsky/spread-java-developer/blob/master/desafio-3-macpronalts/macpronalts.md) | [Código](https://github.com/scatteredsky/spread-java-developer/blob/master/desafio-3-macpronalts/macpronalts.java) |
-| `Desafio 4: Fuso-Horário`          | Detalhes | Código |
-| `Desafio 5: Par ou Ímpar`          | Detalhes | Código |
-| `Desafio 6: Damas`                 | Detalhes | Código |
+| `Desafio 4: Fuso-Horário`          | [Detalhes](https://github.com/scatteredsky/spread-java-developer/blob/master/desafio-4-fuso-horario/FusoHorario.md) | [Código](https://github.com/scatteredsky/spread-java-developer/blob/master/desafio-4-fuso-horario/TimeZone.java) |
+| `Desafio 5: Par ou Ímpar`          | [Detalhes](https://github.com/scatteredsky/spread-java-developer/blob/master/desafio-5-par-ou-impar/parouimpar.md) | [Código](https://github.com/scatteredsky/spread-java-developer/blob/master/desafio-5-par-ou-impar/evenOrOdd.java) |
+| `Desafio 6: Rainha`                 | [Detalhes](https://github.com/scatteredsky/spread-java-developer/blob/master/desafio-6-rainha/rainha.md) | [Código](https://github.com/scatteredsky/spread-java-developer/blob/master/desafio-6-rainha/queenMoves.java) |
