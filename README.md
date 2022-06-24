@@ -16,7 +16,10 @@
 
 ### 📚 Desafios de Código
 
-Lista dos desafios de código e de suas resoluções:
+🇧🇷 Lista dos desafios de código e de suas resoluções:
+
+🇺🇸 Code Challenges list with their resolution:
+
 
 | **Desafio de Código** |    |    |
 |-----------------------------------|:----------:|:--------:|
